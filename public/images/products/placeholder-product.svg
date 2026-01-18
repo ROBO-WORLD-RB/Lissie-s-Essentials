@@ -1,0 +1,8 @@
+<!-- This is a placeholder SVG for product images -->
+<!-- Replace with actual product photos in /public/images/products/{slug}.jpg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect fill="#FBE8E2" width="800" height="800"/>
+  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" fill="#D6B47F">
+    Product Image
+  </text>
+</svg>

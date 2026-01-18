@@ -1,0 +1,211 @@
+{
+    "products": [
+        {
+            "slug": "strawberry-lip-scrub",
+            "name": "Strawberry Lip Scrub",
+            "description": "Gently exfoliate and nourish your lips with our sweet strawberry lip scrub. Made with natural sugar crystals and vitamin E to reveal soft, smooth lips.",
+            "price": 25.00,
+            "category": "lip-scrub",
+            "image_url": "/images/products/strawberry-lip-scrub.jpg",
+            "stock": 50,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "vanilla-lip-scrub",
+            "name": "Vanilla Bean Lip Scrub",
+            "description": "Indulge in the warm, comforting scent of vanilla while buffing away dry skin. Leaves lips feeling silky and hydrated.",
+            "price": 25.00,
+            "category": "lip-scrub",
+            "image_url": "/images/products/vanilla-lip-scrub.jpg",
+            "stock": 45,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "rose-petal-lip-gloss",
+            "name": "Rose Petal Lip Gloss",
+            "description": "A stunning rose-tinted gloss that adds a beautiful sheen with a hint of color. Non-sticky formula keeps lips moisturized all day.",
+            "price": 35.00,
+            "category": "lip-gloss",
+            "image_url": "/images/products/rose-petal-lip-gloss.jpg",
+            "stock": 60,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "clear-shimmer-lip-gloss",
+            "name": "Clear Shimmer Lip Gloss",
+            "description": "Add a touch of sparkle with our clear shimmer gloss. Perfect worn alone or over your favorite lipstick for an extra glossy finish.",
+            "price": 30.00,
+            "category": "lip-gloss",
+            "image_url": "/images/products/clear-shimmer-lip-gloss.jpg",
+            "stock": 55,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "nude-lip-liner",
+            "name": "Classic Nude Lip Liner",
+            "description": "Define and shape your lips with our creamy nude lip liner. Long-lasting formula prevents feathering and keeps lipstick in place.",
+            "price": 20.00,
+            "category": "lip-liner",
+            "image_url": "/images/products/nude-lip-liner.jpg",
+            "stock": 40,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "berry-lip-liner",
+            "name": "Berry Blush Lip Liner",
+            "description": "A gorgeous berry shade that pairs perfectly with our lip glosses. Smooth application and all-day wear.",
+            "price": 20.00,
+            "category": "lip-liner",
+            "image_url": "/images/products/berry-lip-liner.jpg",
+            "stock": 35,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "overnight-lip-mask",
+            "name": "Overnight Honey Lip Mask",
+            "description": "Wake up to plump, hydrated lips with our overnight honey lip mask. Enriched with shea butter and natural honey extract.",
+            "price": 40.00,
+            "category": "lip-mask",
+            "image_url": "/images/products/overnight-lip-mask.jpg",
+            "stock": 30,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "collagen-lip-mask",
+            "name": "Collagen Boost Lip Mask",
+            "description": "Intensive lip treatment with collagen peptides to plump and smooth fine lines. Use 2-3 times weekly for best results.",
+            "price": 45.00,
+            "category": "lip-mask",
+            "image_url": "/images/products/collagen-lip-mask.jpg",
+            "stock": 25,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "lavender-hand-cream",
+            "name": "Lavender Dreams Hand Cream",
+            "description": "Luxurious hand cream infused with calming lavender essential oil. Fast-absorbing, non-greasy formula for silky soft hands.",
+            "price": 28.00,
+            "category": "hand-cream",
+            "image_url": "/images/products/lavender-hand-cream.jpg",
+            "stock": 70,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "shea-butter-hand-cream",
+            "name": "Shea Butter Intensive Hand Cream",
+            "description": "Deep moisturizing hand cream with pure shea butter. Perfect for dry, cracked hands. Provides 24-hour hydration.",
+            "price": 32.00,
+            "category": "hand-cream",
+            "image_url": "/images/products/shea-butter-hand-cream.jpg",
+            "stock": 65,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "hydrating-face-mask",
+            "name": "Hydrating Glow Face Mask",
+            "description": "Revitalize your skin with our hydrating face mask. Packed with hyaluronic acid and vitamin C for a radiant, dewy glow.",
+            "price": 50.00,
+            "category": "face-mask",
+            "image_url": "/images/products/hydrating-face-mask.jpg",
+            "stock": 40,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "charcoal-detox-face-mask",
+            "name": "Charcoal Detox Face Mask",
+            "description": "Deep cleansing charcoal mask that draws out impurities and unclogs pores. Leaves skin feeling refreshed and refined.",
+            "price": 45.00,
+            "category": "face-mask",
+            "image_url": "/images/products/charcoal-detox-face-mask.jpg",
+            "stock": 35,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "floral-essence-perfume",
+            "name": "Floral Essence Perfume",
+            "description": "A delicate blend of rose, jasmine, and peony notes. Light, feminine fragrance perfect for everyday wear.",
+            "price": 85.00,
+            "category": "perfume",
+            "image_url": "/images/products/floral-essence-perfume.jpg",
+            "stock": 20,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "vanilla-musk-perfume",
+            "name": "Vanilla Musk Perfume",
+            "description": "Warm and sensual fragrance with notes of vanilla, amber, and sandalwood. Long-lasting scent that lingers beautifully.",
+            "price": 90.00,
+            "category": "perfume",
+            "image_url": "/images/products/vanilla-musk-perfume.jpg",
+            "stock": 18,
+            "is_coming_soon": false
+        },
+        {
+            "slug": "body-butter",
+            "name": "Whipped Body Butter",
+            "description": "Luxuriously rich whipped body butter coming soon! Made with organic ingredients for ultimate skin nourishment.",
+            "price": 55.00,
+            "category": "body-care",
+            "image_url": "/images/products/body-butter.jpg",
+            "stock": 0,
+            "is_coming_soon": true
+        },
+        {
+            "slug": "makeup-setting-spray",
+            "name": "Dewy Setting Spray",
+            "description": "Keep your makeup flawless all day with our setting spray. Coming soon with a refreshing rose water formula.",
+            "price": 38.00,
+            "category": "makeup",
+            "image_url": "/images/products/setting-spray.jpg",
+            "stock": 0,
+            "is_coming_soon": true
+        }
+    ],
+    "categories": [
+        {
+            "slug": "lip-scrub",
+            "name": "Lip Scrubs",
+            "description": "Exfoliate and soften your lips"
+        },
+        {
+            "slug": "lip-gloss",
+            "name": "Lip Gloss",
+            "description": "Add shine and color to your lips"
+        },
+        {
+            "slug": "lip-liner",
+            "name": "Lip Liners",
+            "description": "Define and perfect your pout"
+        },
+        {
+            "slug": "lip-mask",
+            "name": "Lip Masks",
+            "description": "Intensive lip treatments"
+        },
+        {
+            "slug": "hand-cream",
+            "name": "Hand Creams",
+            "description": "Nourish and soften your hands"
+        },
+        {
+            "slug": "face-mask",
+            "name": "Face Masks",
+            "description": "Pamper and revitalize your skin"
+        },
+        {
+            "slug": "perfume",
+            "name": "Perfumes",
+            "description": "Signature scents for every mood"
+        },
+        {
+            "slug": "body-care",
+            "name": "Body Care",
+            "description": "Coming Soon - Full body pampering"
+        },
+        {
+            "slug": "makeup",
+            "name": "Makeup",
+            "description": "Coming Soon - Beauty essentials"
+        }
+    ]
+}
