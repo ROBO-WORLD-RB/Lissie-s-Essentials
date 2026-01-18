@@ -7,7 +7,7 @@ interface WhatsAppButtonProps {
 }
 
 export function WhatsAppButton({ className }: WhatsAppButtonProps) {
-    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "2335003099327";
+    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "233503099327";
     const whatsappUrl = `https://wa.me/${storePhone}?text=${encodeURIComponent(
         "Hello! I have a question about your products."
     )}`;

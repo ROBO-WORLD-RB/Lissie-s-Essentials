@@ -59,7 +59,7 @@ export function Footer() {
                                 </svg>
                             </a>
                             <a
-                                href={`https://wa.me/${process.env.NEXT_PUBLIC_STORE_PHONE || "2335003099327"}`}
+                                href={`https://wa.me/${process.env.NEXT_PUBLIC_STORE_PHONE || "233503099327"}`}
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-3 bg-white rounded-full text-gray-500 hover:text-green-500 hover:shadow-md transition-all touch-target"

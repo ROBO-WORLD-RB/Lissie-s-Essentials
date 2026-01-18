@@ -47,7 +47,7 @@ Please confirm pickup/delivery time. Thanks!`;
  * @returns WhatsApp URL with encoded message
  */
 export function generateWhatsAppLink(data: WhatsAppOrderData): string {
-    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "2335003099327";
+    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "233503099327";
     const message = generateOrderMessage(data);
     const encodedMessage = encodeURIComponent(message);
 
@@ -61,7 +61,7 @@ export function generateWhatsAppLink(data: WhatsAppOrderData): string {
  * @returns Alternative WhatsApp API URL
  */
 export function generateWhatsAppLinkAlt(data: WhatsAppOrderData): string {
-    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "2335003099327";
+    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "233503099327";
     const message = generateOrderMessage(data);
     const encodedMessage = encodeURIComponent(message);
 
@@ -73,7 +73,7 @@ export function generateWhatsAppLinkAlt(data: WhatsAppOrderData): string {
  * @returns WhatsApp URL for general inquiries
  */
 export function generateInquiryLink(): string {
-    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "2335003099327";
+    const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "233503099327";
     const message = encodeURIComponent(
         "Hello! I have a question about your products."
     );

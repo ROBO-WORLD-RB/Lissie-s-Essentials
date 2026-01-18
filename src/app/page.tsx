@@ -300,7 +300,7 @@ export default function HomePage() {
                             </Button>
                         </Link>
                         <a
-                            href={`https://wa.me/${process.env.NEXT_PUBLIC_STORE_PHONE || "2335003099327"}`}
+                            href={`https://wa.me/${process.env.NEXT_PUBLIC_STORE_PHONE || "233503099327"}`}
                             target="_blank"
                             rel="noopener noreferrer"
                         >

@@ -38,7 +38,7 @@ export default function CheckoutPage() {
         setIsSubmitting(true);
 
         const orderNumber = generateOrderNumber();
-        const storePhone = "2335003099327";
+        const storePhone = "233503099327";
         const itemsList = cart.items.map((i) => `- ${i.quantity} x ${i.name} — GHS ${(i.price * i.quantity).toFixed(2)}`).join("\n");
         const message = `Hello Lissie's team! I want to place an order.\n\nOrder#: ${orderNumber}\nName: ${form.customerName}\nPhone: ${form.phone}\nCampus/Location: ${form.campus}\n\nItems:\n${itemsList}\n\nTotal: GHS ${cart.subtotal.toFixed(2)}${form.note ? `\n\nNote: ${form.note}` : ""}\n\nPlease confirm pickup/delivery time. Thanks!`;
         const waLink = `https://wa.me/${storePhone}?text=${encodeURIComponent(message)}`;
